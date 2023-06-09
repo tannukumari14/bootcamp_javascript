@@ -1,0 +1,12 @@
+if ( true){
+	var abc = "hii";
+}
+console.log (abc)
+
+
+console.log(w)
+
+<---let w =10 
+let a =20
+r= w+a
+console.log(r)
